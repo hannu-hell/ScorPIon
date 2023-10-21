@@ -7,5 +7,5 @@ This script defines all the movements and camera features in the tail of the sco
 ### Script 2 (scorpion_socket.py)
 This script allows to coonect the scorpion to a remote computer running python and allows to send commands for movements and camera functions.  Again check the script file for the detailed commands. 
 
-####NOTE: If you intend to build it remember to be mindful of the power consumption of the RPi zero.  It may influence the scripts running on it. I will post details of the build somewhere like the raspberryPi developers hub or a website soon if you may be interested in the build.
+####NOTE: If you intend to build it remember to be mindful of the power consumption of the RPi zero.  It may influence the scripts running on it. I will post details of the build somewhere like the raspberryPi developers hub or instructables soon if you are interested in the build.
 
